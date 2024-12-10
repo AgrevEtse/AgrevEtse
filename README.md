@@ -5,7 +5,7 @@ Computer Engineering Student
 ----------------------------
 
 * 🌍  I'm based in Mexico
-* ✉️  You can contact me at [defren3211@gmail.com](mailto:defren3211@gmail.com)
+* ✉️  You can contact me at [vg.diegoefren@gmail.com](mailto:vg.diegoefren@gmail.com)
 * 🧠  I'm learning Dart / Flutter and Git
 * 🤝  I'm open to collaborating on Projects that will show me how the industry works
 
